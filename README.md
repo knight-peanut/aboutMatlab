@@ -3,4 +3,4 @@
 
 ### Catalog
 - code 记录了使用matlab进行标准图绘制做法
-- example 有关数学建模的matlab使用
+- example 有关matlab BP神经网络工具箱的使用
